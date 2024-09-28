@@ -1,3 +1,5 @@
+#不同的排行榜可以用排行榜关键字替换base_url中的schoolType=后面的关键字，并把打开的excel文件句柄ws.title改掉，最后wb.save("college_rankings.xlsx")的文件名改掉即可
+
 import requests
 import openpyxl
 
