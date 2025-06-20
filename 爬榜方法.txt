@@ -1,4 +1,4 @@
-the times的排行榜爬取方法
+qs and the times的排行榜爬取方法
 
 找到排行榜的页面，用F12查看，能找到如下的一个json
 https://www.timeshighereducation.com/sites/default/files/the_data_rankings/world_university_rankings_2024_0__91239a4509dc50911f1949984e3fb8c5.json
